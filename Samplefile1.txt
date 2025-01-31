@@ -1,8 +1,9 @@
-This is samle file1
+This is sample file1
 <<<<<<< HEAD
-<<<<<<< HEADCommiting the changes for reset purpose.
+<<<<<<< HEAD
+Commiting the changes for reset purpose.
 Undo the changes.
-Revert is not working so additng the commit
+
 =======
 Additional data for merger practice.
 >>>>>>> 13391718d0fc2b2a888a7eed141c22c393328d3e
