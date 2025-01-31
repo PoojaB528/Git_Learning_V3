@@ -1,4 +1,8 @@
 This is sample file1
+<<<<<<< HEAD
 Commiting the changes for reset purpose.
 Undo the changes.
 
+=======
+Additional data for merger practice.
+>>>>>>> 13391718d0fc2b2a888a7eed141c22c393328d3e
