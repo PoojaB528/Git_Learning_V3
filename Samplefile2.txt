@@ -1,1 +1,3 @@
 This is sample file2
+Additing changes for merging purpose.
+This is main file for merging.
