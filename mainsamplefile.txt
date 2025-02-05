@@ -1,7 +1,5 @@
 this is main file
-<<<<<<< HEAD
 Additional commit for merger request.
 Lets practice merger requests
-=======
 Adding some additional data fro merger requests. 
->>>>>>> develop
+This is urgent fix in between stash learning
