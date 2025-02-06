@@ -3,3 +3,4 @@ Commiting the changes for reset purpose.
 Undo the changes.
 Additional data for merger practice.
 Using git statsh purpose.
+Using pop command in stash
